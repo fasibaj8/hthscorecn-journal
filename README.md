@@ -1,2 +1,14 @@
 # hthscorecn-journal
-HTML page archive and documentation
+
+自动页面托管记录
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
